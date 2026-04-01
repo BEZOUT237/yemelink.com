@@ -1,22 +1,22 @@
-#🌐 YEMELINK Tech Hub
+# 🌐 YEMELINK Tech Hub
 
 YEMELINK is a high-performance digital solutions hub and community platform. It combines a professional portfolio, a service marketplace, and an AI-powered social ecosystem for tech pioneers.
 
-✨ Key Features
+# ✨ Key Features
 
-🚀 Digital Showcase
+## 🚀 Digital Showcase
 
 Dynamic Portfolio: Interactive project gallery with real-time management via the Admin Dashboard.
 
 Service Catalog: Clean, grid-based layout detailing Web Dev, Mobile Apps, and Brand Strategy solutions.
 
-🤖 AI-Powered Connectivity
+##🤖 AI-Powered Connectivity
 
 Smart Content Enhancer: Integrated Gemini 2.5 Flash API to help users polish community posts.
 
 Admin Brainstormer: AI-driven project ideation tool for generating technical specs and marketing copy.
 
-🛡️ Infrastructure Control
+## 🛡️ Infrastructure Control
 
 Dual-Auth System: Distinct entry points for Community Members and the Super Admin.
 
@@ -24,7 +24,7 @@ Command Center: A restricted dashboard for real-time project deployment and cont
 
 Glassmorphism UI: Built with React and Tailwind CSS for a premium, futuristic aesthetic.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: React.js + Vite
 
@@ -36,7 +36,7 @@ AI Engine: Google Gemini API
 
 Deployment: Netlify / Vercel
 
-🚦 Getting Started
+##🚦 Getting Started
 
 Prerequisites
 
@@ -50,7 +50,7 @@ Installation
 
 Clone the repository
 
-git clone [https://github.com/YOUR_USERNAME/yemelink-hub.git](https://github.com/YOUR_USERNAME/yemelink-hub.git)
+git clone [https://github.com/BEZOUT237/yemelink.com.git](https://github.com/BEZOUT237/yemelink.com.git)
 cd yemelink-hub
 
 
@@ -70,7 +70,7 @@ Run Development Server
 npm run dev
 
 
-📂 Project Structure
+# 📂 Project Structure(maybe altered during upload)
 
 yemelink-hub/
 ├── public/              # Static assets (Logos, Profile Pics)
@@ -92,7 +92,7 @@ Toggle the switch to Admin.
 
 Use your root credentials (configured in App.jsx).
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
 
@@ -110,7 +110,7 @@ Open a Pull Request
 
 Distributed under the MIT License. See LICENSE for more information.
 
-Founder: Stéphane Yemeli
+Founder: Stephane YEMELI
 
 Website: YEMELINK
 
